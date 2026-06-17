@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "perpetualheavenssky.play.hosting",
-    "port": ,
+    "port": 7211,
     "version": "",
     "try-creative": false
   },
